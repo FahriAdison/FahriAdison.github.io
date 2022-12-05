@@ -1,2 +1,2 @@
 # stress
-http://FahriAdison.github.io/
+* [`✅`](https://FahriAdison.github.io/index.html)
