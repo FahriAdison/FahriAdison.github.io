@@ -1,2 +1,2 @@
-# uwu
-http://Rlxfly.github.io/about
+# stress
+http://FahriAdison.github.io/
